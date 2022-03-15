@@ -1,0 +1,5 @@
+NIK|NAMA_LENGKAP|TANGGAL|WAKTU|LOKASI|SUHU
+6206023008040001|Muhammad Yudha M|2022-02-12|19:15|Kalimantan Tengah|35.5 Celsius
+6206023008040001|Muhammad Yudha M|2022-02-12|19:19|Yogyakarta|33 Celcius
+6206023008040001|Muhammad Yudha M|2022-03-01|10:46|Jakarta|35.5 Celsius
+000000|Agus|2022-03-12|11:35|Angkringan|35.5 Celsius
